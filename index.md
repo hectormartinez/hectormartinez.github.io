@@ -45,7 +45,7 @@ title: Héctor Martínez Alonso's, professional page
 1. Klerke S, Martínez Alonso H, and Søgaard A. _Looking hard: Eye tracking for detecting grammaticality of automatically compressed sentences_. NODALIDA 2015.
 1. Schluter N, Søgaard A, Elming J, Hovy D, Plank B, Martínez Alonso H,  Johannsen A and Klerke S. _Copenhagen-Malmö: Tree approximations of semantic parsing problems_. Task 8 on SemEval-2014.
 1. Søgaard A, Johannsen A, Plank B, Hovy D, Martínez Alonso, H. _What is in a p-value in NLP?_. CoNLL 2014.
-1. Johannsen A, Hovy D, Martínez Alonso H, Plank B, Søgaard A. _More or less supervised supersense tagging of Twitter._ Third Joint Conference on Lexical and Computational Semantics, *SEM 2014 (\textit{Best Paper Award}).
+1. Johannsen A, Hovy D, Martínez Alonso H, Plank B, Søgaard A. _More or less supervised supersense tagging of Twitter._ Third Joint Conference on Lexical and Computational Semantics, *SEM 2014 (_Best Paper Award_).
 1. Martínez Alonso H and Romeo L. _Crowdsourcing as a preprocessing for complex semantic annotation tasks_. LREC 2014.
 1. Søgaard A, Martínez Alonso H, Elming J and Johannsen A. _Using crowdsourcing to get representations based on regular expressions_. EMNLP 2013.
 1. Romeo L, Martínez Alonso H, Bel N. _Class-based Word Sense Induction for dot-type nominals_. The 6th International Conference on Generative Approaches to the Lexicon, 2013.
@@ -55,7 +55,7 @@ title: Héctor Martínez Alonso's, professional page
 1. Martínez Alonso H, Bel N and Pedersen BS. _A voting scheme to detect semantic underspecification_, LREC 2012
 1. Johannsen A, Martínez Alonso H, Klerke S and Søgaard A. _EMNLP@CPH: Is frequency all there is to simplicity?_. Task 1 on SemEval2012.
 1. Martínez Alonso H, Bel N and Pedersen BS, _Identification of sense selection in regular polysemy using shallow features_. NODALIDA 2011.
-1. Johannsen A, Martínez Alonso H, Rishøj C and Søgaard A. _Shared task system description: frustratingly hard compositionality prediction_. DiSCo 2011, Workshop on Distributional Semantics and Compositionality (\textit{Best System}) .
+1. Johannsen A, Martínez Alonso H, Rishøj C and Søgaard A. _Shared task system description: frustratingly hard compositionality prediction_. DiSCo 2011, Workshop on Distributional Semantics and Compositionality (_Best System_) .
 1. Martínez Alonso H, Vivaldi J and Villegas M. _Text handling as a Web Service for the IULA processing pipeline_. Web Services and Processing Pipelines in HLT (LREC 2010).
 1. Martínez Alonso H, Villegas M, Bel N, Bel S and Alemany F. _Lexicography in the grid environment_, eLEX 2009. 
 
