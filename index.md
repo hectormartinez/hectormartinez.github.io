@@ -34,7 +34,7 @@ title: Héctor Martínez Alonso's, professional page
 1. Søgaard A, Agić Ž, Martínez Alonso H, Plank B, Bohnet B and Johannsen A. _Inverted Indexing for Cross-lingual NLP_. ACL 2015.
 1. Martínez Alonso H, Plank B, Skjærholt A and Søgaard A. _Learning to parse with IAA-weighted loss_. NAACL-HLT 2015.
 1. Plank B, Martínez Alonso H and Søgaard A. _Non-canonical language is not harder to annotate than canonical language_. The 9th Linguistic Annotation Workshop (NAACL-HLT 2015).
-1. McGillion S, Martínez Alonso H and Plank B. _CPH: Sentiment analysis of Figurative Language on Twitter \#{}easypeasy \#{}not_. Task 11 on SemEval2015  (NAACL-HLT 2015).
+1. McGillion S, Martínez Alonso H and Plank B. _CPH: Sentiment analysis of Figurative Language on Twitter \#easypeasy \#not_. Task 11 on SemEval2015  (NAACL-HLT 2015).
 1. Hovy D, Plank B, Martínez Alonso H, Søgaard A. _Mining for unambiguous instances to adapt POS taggers to new domains._ NAACL 2015.
 1. Søgaard A, Plank B, and Martinez Alonso H. _Using Frame Semantics for Knowledge Extraction from Twitter._ AAAI 2015.
 1. Parra Escartín C, and Martínez Alonso, H. _Assessing  WordNet for  bilingual  compound  dictionary  extraction_. Workshop on Multi-word Units in Machine Translation Technology (MUMTTT2015).
