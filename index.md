@@ -12,7 +12,7 @@ title: Héctor Martínez Alonso's, professional page
 
     <h2>Héctor {Martínez Alonso}</h2>
 
-    I am a post-doctoral fellow in the Copenhagen Applied Statistical Learning (COASTAL) group at the <a href="http://cst.ku.dk">University of Copenhagen</a> for the period 2014-2016 under the project <a href="http://cst.ku.dk/projekter/semantikprojekt/">Semantic Processing across Domains</a>.  My research interests are centered on lexical semantics, semi-supervised learning and linguistic annotation.
+    I am a post-doctoral fellow in the Copenhagen Applied Statistical Learning (COASTAL) group at the <a href="http://cst.ku.dk">University of Copenhagen</a> for the period 2014-2016 under the project <a href="http://cst.ku.dk/projekter/semantikprojekt/">Semantic Processing across Domains</a>.  My research interests are centered on lexical semantics, dependency syntax, semi-supervised learning and linguistic annotation.
     <br>
     You can contact me at <i>{{ site.email }}</i>.
     </div>
@@ -23,9 +23,10 @@ title: Héctor Martínez Alonso's, professional page
 
 ### Data and tools
 
-* [Smalltools](https://github.com/hectormartinez/smalltools) A collection of little Python scripts, including a bootstrap-sample significance tester for structure prediction.
+
 * [Regpol](https://github.com/hectormartinez/regpol) The regular-polysemy datasets in English, Danish and Spanish from my doctoral dissertation.
 * [Danish UD](http://universaldependencies.github.io/docs/) I have been involved in the conversion of the Copenhagen Dependency Treebank to the Universal Dependencies formalism.
+* [Smalltools](https://github.com/hectormartinez/smalltools) A collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy.
 
 ### Publications
 1.  Johannsen A, Martínez Alonso H and Søgaard A . _Any-language frame semantic parsing_. EMNLP 2015 (to appear).
