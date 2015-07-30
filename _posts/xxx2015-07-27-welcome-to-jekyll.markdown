@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Muerte al zar!"
 date:   2015-07-27 15:13:34
 categories: jekyll update
 ---
