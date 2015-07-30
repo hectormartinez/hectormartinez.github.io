@@ -28,7 +28,8 @@ title: Héctor Martínez Alonso's, professional page
 * [Danish UD](http://universaldependencies.github.io/docs/) I have been involved in the conversion of the Copenhagen Dependency Treebank to the Universal Dependencies formalism.
 
 ### Publications
-1. Martínez Alonso H, Johannsen A, Lopez de Lacalle O, Agirre E. _Predicting word sense annotation agreement_. LSDSem 2015.
+1.  Johannsen A, Martínez Alonso H and Søgaard A . _Any-language frame semantic parsing_. EMNLP 2015 (to appear).
+1. Martínez Alonso H, Johannsen A, Lopez de Lacalle O and Agirre E. _Predicting word sense annotation agreement_. LSDSem 2015 (to appear).
 1. Plank B, Martínez Alonso H, Agić Ž, Merkler D and Søgaard A. _Do dependency parsing metrics correlate with human judgments?_. CONLL 2015
 1. Søgaard A, Agić Ž, Martínez Alonso H, Plank B, Bohnet B and Johannsen A. _Inverted Indexing for Cross-lingual NLP_. ACL 2015.
 1. Martínez Alonso H, Plank B, Skjærholt A and Søgaard A. _Learning to parse with IAA-weighted loss_. NAACL-HLT 2015.
@@ -50,11 +51,11 @@ title: Héctor Martínez Alonso's, professional page
 1. Romeo L, Martínez Alonso H, Bel N. _Class-based Word Sense Induction for dot-type nominals_. The 6th International Conference on Generative Approaches to the Lexicon, 2013.
 1. Martínez Alonso H, Bel N and Pedersen BS. _Annotation of regular polysemy and underspecification_. ACL 2013.
 1. Padró M, Ballesteros M, Martínez Alonso H and Bohnet B. _Finding dependency parsing limits over a large Spanish corpus._ IJCNLP 2013.
-1. Elming J, Johannsen A, Klerke S, Lapponi E, Martínez Alonso, H, Søgaard, A. _Down-stream effects of tree-to-dependency conversions._  NAACL-HLT 2013.
-1. Martínez Alonso H, Bel N, Pedersen BS. _A voting scheme to detect semantic underspecification_, LREC 2012
-1. Johannsen A, Martínez Alonso H, Klerke S, Søgaard A. _EMNLP@CPH: Is frequency all there is to simplicity?_. Task 1 on SemEval2012.
-1. Martínez Alonso H, Bel N, Pedersen BS, _Identification of sense selection in regular polysemy using shallow features_. NODALIDA 2011.
-1. Johannsen A, Martínez Alonso H, Rishøj C, Søgaard A. _Shared task system description: frustratingly hard compositionality prediction_. DiSCo 2011, Workshop on Distributional Semantics and Compositionality (\textit{Best System}) .
-1. Martínez Alonso H, Vivaldi J, Villegas M. _Text handling as a Web Service for the IULA processing pipeline_. Web Services and Processing Pipelines in HLT (LREC 2010).
-1. Martínez Alonso H, Villegas M, Bel N, Bel S, Alemany F. _Lexicography in the grid environment_, eLEX 2009. 
+1. Elming J, Johannsen A, Klerke S, Lapponi E, Martínez Alonso, H and Søgaard, A. _Down-stream effects of tree-to-dependency conversions._  NAACL-HLT 2013.
+1. Martínez Alonso H, Bel N and Pedersen BS. _A voting scheme to detect semantic underspecification_, LREC 2012
+1. Johannsen A, Martínez Alonso H, Klerke S and Søgaard A. _EMNLP@CPH: Is frequency all there is to simplicity?_. Task 1 on SemEval2012.
+1. Martínez Alonso H, Bel N and Pedersen BS, _Identification of sense selection in regular polysemy using shallow features_. NODALIDA 2011.
+1. Johannsen A, Martínez Alonso H, Rishøj C and Søgaard A. _Shared task system description: frustratingly hard compositionality prediction_. DiSCo 2011, Workshop on Distributional Semantics and Compositionality (\textit{Best System}) .
+1. Martínez Alonso H, Vivaldi J and Villegas M. _Text handling as a Web Service for the IULA processing pipeline_. Web Services and Processing Pipelines in HLT (LREC 2010).
+1. Martínez Alonso H, Villegas M, Bel N, Bel S and Alemany F. _Lexicography in the grid environment_, eLEX 2009. 
 
