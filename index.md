@@ -23,7 +23,7 @@ title: Héctor Martínez Alonso's, professional page
 
 ### Data and tools
 
-* [Smalltools](https://github.com/hectormartinez/smalltools) A collection of little utility python scripts, including a bootstrap-sample significance tester for structure prediction.
+* [Smalltools](https://github.com/hectormartinez/smalltools) A collection of little Python scripts, including a bootstrap-sample significance tester for structure prediction.
 * [Regpol](https://github.com/hectormartinez/regpol) The regular-polysemy datasets in English, Danish and Spanish from my doctoral dissertation.
 * [Danish UD](http://universaldependencies.github.io/docs/) I have been involved in the conversion of the Copenhagen Dependency Treebank to the Universal Dependencies formalism.
 
