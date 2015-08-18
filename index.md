@@ -14,7 +14,7 @@ title: Héctor Martínez Alonso's, professional page
 
     I am a post-doctoral fellow in the Copenhagen Applied Statistical Learning (COASTAL) group at the <a href="http://cst.ku.dk">University of Copenhagen</a> for the period 2014-2016 under the project <a href="http://cst.ku.dk/projekter/semantikprojekt/">Semantic Processing across Domains</a>.  My research interests are centered on lexical semantics, dependency syntax, semi-supervised learning and linguistic annotation.
     <br>
-    You can contact me at <i>{{ site.email }}</i>.
+    You can contact me at <i>{{ site.email }} </i> or at my <a href="https://dk.linkedin.com/pub/héctor-martínez-alonso/90/720/ab6">LinkedIn profile</a>.
     </div>
     </div>
 <br>
