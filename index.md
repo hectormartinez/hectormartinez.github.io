@@ -29,7 +29,7 @@ title: Héctor Martínez Alonso's, professional page
 * [Smalltools](https://github.com/hectormartinez/smalltools) A collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy.
 
 ### Publications
-1.  Johannsen A, Martínez Alonso H and Søgaard A . _Any-language frame semantic parsing_. EMNLP 2015 (to appear).
+1.  Johannsen A, Martínez Alonso H and Søgaard A . _Any-language frame-semantic parsing_. EMNLP 2015 (to appear).
 1. Martínez Alonso H, Johannsen A, Lopez de Lacalle O and Agirre E. _Predicting word sense annotation agreement_. LSDSem 2015 (to appear).
 1. Plank B, Martínez Alonso H, Agić Ž, Merkler D and Søgaard A. _Do dependency parsing metrics correlate with human judgments?_. CONLL 2015
 1. Søgaard A, Agić Ž, Martínez Alonso H, Plank B, Bohnet B and Johannsen A. _Inverted Indexing for Cross-lingual NLP_. ACL 2015.
