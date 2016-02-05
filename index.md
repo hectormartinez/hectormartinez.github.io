@@ -30,6 +30,7 @@ title: Héctor Martínez Alonso's, professional page
 * [Smalltools](https://github.com/hectormartinez/smalltools) A collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy.
 
 ### Publications
+1. Pedersen BS, Braasch A, Johannsen A, Martínez Alonso H, Nimb S, Olsen S, Søgaard A and Sørensen NH. _The SemDaX corpus -- sense annotations with scalable sense inventories_. LREC 2016 (to appear)
 1. Martínez Alonso H, Johannsen A, Olsen S, Nimb S and Pedersen BS. _An empirically grounded expansion of the supersense inventory_. GWC 2016 (to appear).
 1. Lia K,  Martínez Alonso H. _Cros-lingual part-of-speech tagging for Maltese_. LRL 2015 (to appear).
 1.  Johannsen A, Martínez Alonso H and Søgaard A. _Any-language frame-semantic parsing_. EMNLP 2015.
