@@ -13,7 +13,7 @@ title: Héctor Martínez Alonso's, professional page
     <h2>Héctor {Martínez Alonso}</h2>
 
     <!--I am a post-doctoral fellow in the Copenhagen Applied Statistical Learning (COASTAL) group at the <a href="http://cst.ku.dk">University of Copenhagen</a> for the period 2014-2016 under the project <a href="http://cst.ku.dk/projekter/semantikprojekt/">Semantic Processing across Domains</a>. --> 
-    I am a post-doctoral fellow in INRIA - Paris 7 at the <a href="https://www.rocq.inria.fr/alpage-wiki/tiki-index.php?page=Accueil">Alpage</a> My research interests are centered on lexical semantics, dependency syntax, semi-supervised learning and linguistic annotation.
+    I am a post-doctoral fellow in INRIA - Paris 7 at the <a href="https://www.rocq.inria.fr/alpage-wiki/tiki-index.php?page=Accueil">Alpage</a> team. My research interests are centered on lexical semantics, dependency syntax, semi-supervised learning and linguistic annotation.
     <br>
     You can contact me at <i>{{ site.email }} </i> or at my <a href="https://dk.linkedin.com/pub/héctor-martínez-alonso/90/720/ab6">LinkedIn profile</a>.
     </div>
