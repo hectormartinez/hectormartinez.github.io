@@ -32,7 +32,7 @@ title: Héctor Martínez Alonso's, professional page
 ### Publications
 1. Pedersen BS, Braasch A, Johannsen A, Martínez Alonso H, Nimb S, Olsen S, Søgaard A and Sørensen NH. _The SemDaX corpus -- sense annotations with scalable sense inventories_. LREC 2016 (to appear)
 1. Martínez Alonso H, Johannsen A, Olsen S, Nimb S and Pedersen BS. _An empirically grounded expansion of the supersense inventory_. GWC 2016 (to appear).
-1. Lia K,  Martínez Alonso H. _Cros-lingual part-of-speech tagging for Maltese_. LRL 2015 (to appear).
+1. Lia K,  Martínez Alonso H. _Cross-lingual part-of-speech tagging for Maltese_. LRL 2015 (to appear).
 1.  Johannsen A, Martínez Alonso H and Søgaard A. _Any-language frame-semantic parsing_. EMNLP 2015.
 1. Martínez Alonso H, Johannsen A, Lopez de Lacalle O and Agirre E. _Predicting word sense annotation agreement_. LSDSem 2015.
 1. Plank B, Martínez Alonso H, Agić Ž, Merkler D and Søgaard A. _Do dependency parsing metrics correlate with human judgments?_. CONLL 2015
