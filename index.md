@@ -30,7 +30,12 @@ title: Héctor Martínez Alonso's, professional page
 * [Smalltools](https://github.com/hectormartinez/smalltools) A collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy.
 
 ### Publications
-1. Pedersen BS, Braasch A, Johannsen A, Martínez Alonso H, Nimb S, Olsen S, Søgaard A and Sørensen NH. _The SemDaX corpus -- sense annotations with scalable sense inventories_. LREC 2016 (to appear)
+1. Martínez Alonso H, Johannsen A and Plank B. _Supersense tagging with inter-annotator disagreement_. Linguistic Annotation Workshop 2016.
+2. 1. Yimam S. M., Martínez Alonso H., Riedl M and Biemann C. _Learning Paraphrasing for Multiword Expressions_. Multiwork Expression Workshop 2016.
+1. Schluter N and Martínez Alonso H.   _Approximate unsupervised summary optimisation for selections of ROUGE_. TALN 2016 (vol. 4).
+1. Agić Ž, Plank B, Martínez Alonso H, Johannsen A, Schluter N and  Søgaard A  _Multilingual Projection for Parsing Truly Low-Resource Languages_. TACL 2016 (vol 4).
+1. Martínez Alonso H and Zeman D. _Universal Dependencies for the AnCora treebanks_.Procesamiento de Lenguaje Natural Journal (vol. 57) 2016.
+1. Pedersen BS, Braasch A, Johannsen A, Martínez Alonso H, Nimb S, Olsen S, Søgaard A and Sørensen NH. _The SemDaX corpus -- sense annotations with scalable sense inventories_. LREC 2016.
 1. Martínez Alonso H, Johannsen A, Olsen S, Nimb S and Pedersen BS. _An empirically grounded expansion of the supersense inventory_. GWC 2016.
 1. Lia K,  Martínez Alonso H. _Cross-lingual part-of-speech tagging for Maltese_. LRL 2015.
 1.  Johannsen A, Martínez Alonso H and Søgaard A. _Any-language frame-semantic parsing_. EMNLP 2015.
