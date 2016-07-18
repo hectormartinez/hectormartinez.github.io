@@ -25,13 +25,13 @@ title: Héctor Martínez Alonso's, professional page
 ### Data and tools
 
 
-* [Regpol](https://github.com/hectormartinez/regpol) The regular-polysemy datasets in English, Danish and Spanish from my doctoral dissertation.
-* [Danish UD](http://universaldependencies.github.io/docs/) I have been involved in the conversion of the Copenhagen Dependency Treebank to the Universal Dependencies formalism.
-* [Smalltools](https://github.com/hectormartinez/smalltools) A collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy.
+* [Regpol](https://github.com/hectormartinez/regpol) The regular-polysemy datasets in English, Danish and Spanish from my doctoral dissertation, and the Danish supersense-annotated [SemDax](https://github.com/coastalcph/semdax) corpus, as well as a [supersense tagger](https://github.com/coastalcph/dsl_semtagger) trained from it.
+* I have been involved in the conversion in the Catalan, Danish and Spanish treebanks of  [Universal Dependencies UD](http://universaldependencies.org/).
+* In my fairly messy github you can also find [smalltools](https://github.com/hectormartinez/smalltools) a collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy, 
 
 ### Publications
 1. Martínez Alonso H, Johannsen A and Plank B. _Supersense tagging with inter-annotator disagreement_. Linguistic Annotation Workshop 2016.
-2. 1. Yimam S. M., Martínez Alonso H., Riedl M and Biemann C. _Learning Paraphrasing for Multiword Expressions_. Multiwork Expression Workshop 2016.
+1. Yimam S. M., Martínez Alonso H., Riedl M and Biemann C. _Learning Paraphrasing for Multiword Expressions_. Multiwork Expression Workshop 2016.
 1. Schluter N and Martínez Alonso H.   _Approximate unsupervised summary optimisation for selections of ROUGE_. TALN 2016 (vol. 4).
 1. Agić Ž, Plank B, Martínez Alonso H, Johannsen A, Schluter N and  Søgaard A  _Multilingual Projection for Parsing Truly Low-Resource Languages_. TACL 2016 (vol 4).
 1. Martínez Alonso H and Zeman D. _Universal Dependencies for the AnCora treebanks_.Procesamiento de Lenguaje Natural Journal (vol. 57) 2016.
