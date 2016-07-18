@@ -26,7 +26,7 @@ title: Héctor Martínez Alonso's, professional page
 
 
 * [Regpol](https://github.com/hectormartinez/regpol) The regular-polysemy datasets in English, Danish and Spanish from my doctoral dissertation, and the Danish supersense-annotated [SemDax](https://github.com/coastalcph/semdax) corpus, as well as a [supersense tagger](https://github.com/coastalcph/dsl_semtagger) trained from it.
-* I have been involved in the conversion in the Catalan, Danish and Spanish treebanks of  [Universal Dependencies UD](http://universaldependencies.org/).
+* I have been involved in the conversion of the Catalan, Danish and Spanish treebanks of  [Universal Dependencies UD](http://universaldependencies.org/).
 * In my fairly messy github you can also find [smalltools](https://github.com/hectormartinez/smalltools), a collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy, 
 
 ### Publications
