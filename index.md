@@ -34,6 +34,9 @@ title: Héctor Martínez Alonso's, professional page
 1. Yimam S. M., Martínez Alonso H., Riedl M and Biemann C. _Learning Paraphrasing for Multiword Expressions_. Multiwork Expression Workshop 2016.
 1. Schluter N and Martínez Alonso H. _Approximate unsupervised summary optimisation for selections of ROUGE_. TALN 2016 (vol. 4).
 1. Agić Ž, Plank B, Martínez Alonso H, Johannsen A, Schluter N and Søgaard A. _Multilingual Projection for Parsing Truly Low-Resource Languages_. TACL 2016 (vol 4).
+1. Schlichtkrull M S and Martínez Alonso H. _MSejrKu at SemEval-2016 Task 14: Taxonomy Enrichment by Evidence Ranking_ SemEval 2016.
+1. Bingel J, Schluter N and Martínez Alonso H. _CoastalCPH at SemEval-2016 Task 11:
+The importance of designing your Neural Networks right_ SemEval 2016.
 1. Martínez Alonso H and Zeman D. _Universal Dependencies for the AnCora treebanks_.Procesamiento de Lenguaje Natural Journal (vol. 57) 2016.
 1. Pedersen BS, Braasch A, Johannsen A, Martínez Alonso H, Nimb S, Olsen S, Søgaard A and Sørensen NH. _The SemDaX corpus -- sense annotations with scalable sense inventories_. LREC 2016.
 1. Martínez Alonso H, Johannsen A, Olsen S, Nimb S and Pedersen BS. _An empirically grounded expansion of the supersense inventory_. GWC 2016.
