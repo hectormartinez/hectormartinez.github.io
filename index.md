@@ -30,6 +30,8 @@ title: Héctor Martínez Alonso's, professional page
 * In my fairly messy github you can also find [smalltools](https://github.com/hectormartinez/smalltools), a collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy, 
 
 ### Publications
+1. Martínez Alonso H, Plank B.  "Multitask learning for semantic sequence prediction under varying data conditions". EACL 2017 (to appear).
+1. Martínez Alonso H, Agić Ž, Plank B and Søgaard A.  "Parsing Universal Dependencies without training". EACL 2017 (to appear).
 1. Martínez Alonso H, Sagot B and Seddah D.  "From Noisy Question to Minecraft Text: Annotation Challenges in Extreme Syntax Scenario". Workshop on Noisy User-generated Text 2016 (to appear).
 1. Martínez Alonso H, Johannsen A and Plank B. _Supersense tagging with inter-annotator disagreement_. Linguistic Annotation Workshop 2016.
 1. Yimam S. M., Martínez Alonso H., Riedl M and Biemann C. _Learning Paraphrasing for Multiword Expressions_. Multiword Expression Workshop 2016.
