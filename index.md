@@ -32,7 +32,6 @@ title: Héctor Martínez Alonso's, professional page
 ### Publications
 1. Constant M and  Martínez Alonso H. "Benchmarking Joint Lexical and Syntactic Analysis on Multiword-Rich Data". Multiword Expression Workshop 2016 (to appear).
 1. Martínez Alonso H, Delamaire A and Sagot B.  "Annotating omission in statement pairs". Linguistic Annotation Workshop 2017 (to appear).
-
 1. Martínez Alonso H, Plank B.  "Multitask learning for semantic sequence prediction under varying data conditions". EACL 2017 (to appear).
 1. Martínez Alonso H, Agić Ž, Plank B and Søgaard A.  "Parsing Universal Dependencies without training". EACL 2017 (to appear).
 1. Martínez Alonso H, Sagot B and Seddah D.  "From Noisy Question to Minecraft Text: Annotation Challenges in Extreme Syntax Scenario". Workshop on Noisy User-generated Text 2016.
