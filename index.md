@@ -30,10 +30,10 @@ title: Héctor Martínez Alonso's, professional page
 * In my fairly messy github contributions you can find [smalltools](https://github.com/hectormartinez/smalltools), a collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy, an [unsupervised dependency parser for UD](https://github.com/hectormartinez/ud_unsup_parser), the regular-polysemy [datasets](https://github.com/hectormartinez/regpol) from my dissertation, or [a ready-to-use Danish supersense tagger](https://github.com/coastalcph/cs_sst).
 
 ### Publications
-1. Constant M and  Martínez Alonso H. _Benchmarking Joint Lexical and Syntactic Analysis on Multiword-Rich Data_. Multiword Expression Workshop 2016 (to appear).
-1. Martínez Alonso H, Delamaire A and Sagot B.  _Annotating omission in statement pairs_. Linguistic Annotation Workshop 2017 (to appear).
-1. Martínez Alonso H, Plank B.  _Multitask learning for semantic sequence prediction under varying data conditions_. EACL 2017 (to appear).
-1. Martínez Alonso H, Agić Ž, Plank B and Søgaard A.  _Parsing Universal Dependencies without training_. EACL 2017 (to appear).
+1. Constant M and  Martínez Alonso H. _Benchmarking Joint Lexical and Syntactic Analysis on Multiword-Rich Data_. Multiword Expression Workshop 2017.
+1. Martínez Alonso H, Delamaire A and Sagot B.  _Annotating omission in statement pairs_. Linguistic Annotation Workshop 2017.
+1. Martínez Alonso H, Plank B.  _Multitask learning for semantic sequence prediction under varying data conditions_. EACL 2017.
+1. Martínez Alonso H, Agić Ž, Plank B and Søgaard A.  _Parsing Universal Dependencies without training_. EACL 2017.
 1. Martínez Alonso H, Sagot B and Seddah D.  _From Noisy Question to Minecraft Text: Annotation Challenges in Extreme Syntax Scenario_. Workshop on Noisy User-generated Text 2016.
 1. Martínez Alonso H, Johannsen A and Plank B. _Supersense tagging with inter-annotator disagreement_. Linguistic Annotation Workshop 2016.
 1. Yimam S. M., Martínez Alonso H., Riedl M and Biemann C. _Learning Paraphrasing for Multiword Expressions_. Multiword Expression Workshop 2016.
