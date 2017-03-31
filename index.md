@@ -27,7 +27,8 @@ title: Héctor Martínez Alonso's, professional page
 
 * [Regpol](https://github.com/hectormartinez/regpol) The regular-polysemy datasets in English, Danish and Spanish from my doctoral dissertation, and the Danish supersense-annotated [SemDax](https://github.com/coastalcph/semdax) corpus, as well as a [supersense tagger](https://github.com/coastalcph/dsl_semtagger) trained from it.
 * I have been involved in the conversion of the Catalan, Danish and Spanish treebanks of  [Universal Dependencies UD](http://universaldependencies.org/).
-* In my fairly messy github contributions you can find [smalltools](https://github.com/hectormartinez/smalltools), a collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy, an [unsupervised dependency parser for UD](https://github.com/hectormartinez/ud_unsup_parser), the regular-polysemy [datasets](https://github.com/hectormartinez/regpol) from my dissertation, or [a ready-to-use Danish supersense tagger](https://github.com/coastalcph/cs_sst).
+* Here is also the [unsupervised dependency parser for UD](https://github.com/hectormartinez/ud_unsup_parser) from EACL'17.
+* In my fairly messy github contributions you can find [smalltools](https://github.com/hectormartinez/smalltools), a collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy.
 
 ### Publications
 1. Constant M and  Martínez Alonso H. _Benchmarking Joint Lexical and Syntactic Analysis on Multiword-Rich Data_. Multiword Expression Workshop 2017.
