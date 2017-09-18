@@ -31,6 +31,7 @@ title: Héctor Martínez Alonso's, professional page
 * In my fairly messy github contributions you can find [smalltools](https://github.com/hectormartinez/smalltools), a collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy.
 
 ### Publications
+1. Benoît S and  Martínez Alonso H. _Improving neural tagging with lexical information_. IWPT17
 1. Constant M and  Martínez Alonso H. _Benchmarking Joint Lexical and Syntactic Analysis on Multiword-Rich Data_. Multiword Expression Workshop 2017.
 1. Martínez Alonso H, Delamaire A and Sagot B.  _Annotating omission in statement pairs_. Linguistic Annotation Workshop 2017.
 1. Martínez Alonso H, Plank B.  _Multitask learning for semantic sequence prediction under varying data conditions_. EACL 2017.
