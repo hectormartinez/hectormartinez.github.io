@@ -31,6 +31,11 @@ title: Héctor Martínez Alonso's, professional page
 * In my fairly messy github contributions you can find [smalltools](https://github.com/hectormartinez/smalltools), a collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy.
 
 ### Publications
+
+1. Seddah D, de La Clergerie E, Sagot B, Martínez Alonso H, Candito M, _Cheating a Parser to Death: Data-driven Cross-Treebank Annotation Transfer_. LREC 2018
+1. Schumman A, Martínez Alonso H, _Automatic Annotation of Semantic Term Types in the Complete ACL Anthology Reference Corpus_. LREC 2018
+1. Martínez Alonso H, R Makki, J Gu. CL-SciSumm Shared Task-Team Magma. BIRNDL@ SIGIR 2018
+1. Klerke S,  Martínez Alonso H,  Plank B. Grotoco@ SLAM: Second Language Acquisition Modeling with Simple Features, Learners and Task-wise Models. Workshop on Innovative Use of NLP for Building Educational Applications. 2018
 1. Sagot B and  Martínez Alonso H. _Improving neural tagging with lexical information_. IWPT17
 1. Constant M and  Martínez Alonso H. _Benchmarking Joint Lexical and Syntactic Analysis on Multiword-Rich Data_. Multiword Expression Workshop 2017.
 1. Martínez Alonso H, Delamaire A and Sagot B.  _Annotating omission in statement pairs_. Linguistic Annotation Workshop 2017.
