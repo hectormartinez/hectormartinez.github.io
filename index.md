@@ -31,7 +31,7 @@ title: Héctor Martínez Alonso's, professional page
 * In my fairly messy github contributions you can find [smalltools](https://github.com/hectormartinez/smalltools), a collection of little Python scripts, including a bootstrap-sample significance tester which keeps coming in handy.
 
 ### Publications
-1. Gantar P, Colman L, Parra Escartín C, Martínez Alonso H. _Multiword Expressions: Between Lexicography and NLP_. International Journal of Lexicography. 
+1. Gantar P, Colman L, Parra Escartín C, Martínez Alonso H. _Multiword Expressions: Between Lexicography and NLP_. International Journal of Lexicography. August 2018. 
 1. Seddah D, de La Clergerie E, Sagot B, Martínez Alonso H, Candito M, _Cheating a Parser to Death: Data-driven Cross-Treebank Annotation Transfer_. LREC 2018
 1. Schumman A, Martínez Alonso H, _Automatic Annotation of Semantic Term Types in the Complete ACL Anthology Reference Corpus_. LREC 2018
 1. Martínez Alonso H, Makki R, Gu J. CL-SciSumm Shared Task-Team Magma. BIRNDL@ SIGIR 2018
